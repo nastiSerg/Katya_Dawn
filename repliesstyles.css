@@ -1,0 +1,32 @@
+.replies{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    background-color: rgb(166, 105, 0, 0.4);  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.blocktext{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.blocktext p{
+    font-size: 35px;
+}
+.repliespeople{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.repliespeople img{
+    margin-bottom: 20px;
+}
